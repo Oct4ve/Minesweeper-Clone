@@ -1,7 +1,9 @@
 Minesweeper Clone
 
 Author: Sam 'Octave' Wilson
+
 Version: v1.0
+
 Date: 2024/09/06
 
 Hello! I am Sam Wilson. Started this project last week to warm up my java skills before school starts. 
